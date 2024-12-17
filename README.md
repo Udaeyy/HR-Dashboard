@@ -1,6 +1,6 @@
 # HR-Dashboard
 HR data analysis
-![Screenshot 2024-11-17 170247](https://github.com/user-attachments/assets/6cb151d9-f413-4439-b115-3c41021c103d)
+![Screenshot 2024-12-17 124148](https://github.com/user-attachments/assets/b9be83a4-791f-4966-8dbc-360deb19146b)
 
 A dynamic interactive dashboard using PowerBI from a sample of staff related Raw data to beautiful
  visualization/ insights. Straight from EDA to visualisation.
